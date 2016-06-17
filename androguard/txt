@@ -1,0 +1,243 @@
+0aa251d6ad8fb378d48d010d3ef1defe56967e35.apk :
+FILES: 
+	res/anim/bottom_in.xml Android's binary XML -37bf49db
+	res/anim/bottom_out.xml Android's binary XML -4b6a168
+	res/anim/left_in.xml Android's binary XML 302aa225
+	res/anim/left_out.xml Android's binary XML -7afb1edb
+	res/anim/right_in.xml Android's binary XML 7b9f4202
+	res/anim/right_out.xml Android's binary XML 4896aabf
+	res/anim/top_in.xml Android's binary XML -7c0aa9fe
+	res/anim/top_out.xml Android's binary XML 36db1502
+	res/layout/main.xml Android's binary XML 7f9bf32e
+	res/layout/readme.xml Android's binary XML -59b3b4c0
+	AndroidManifest.xml Android's binary XML 7647b0b0
+	resources.arsc data 5123d73
+	res/drawable-hdpi/icon.png PNG image data, 96 x 96, 8-bit/color RGBA, non-interlaced 43daae22
+	res/drawable-hdpi/mkicon.png PNG image data, 72 x 71, 8-bit/color RGBA, non-interlaced 2b41301c
+	res/drawable-ldpi/icon.png PNG image data, 36 x 36, 8-bit/color RGBA, non-interlaced 20bdfb03
+	res/drawable-ldpi/mkicon.png PNG image data, 36 x 35, 8-bit/color RGBA, non-interlaced -35e0e634
+	res/drawable-mdpi/dddddddd_089.jpg JPEG image data, JFIF standard 1.01 37db8b8b
+	res/drawable-mdpi/dddddddd_090.jpg JPEG image data, JFIF standard 1.01 -1d0a1629
+	res/drawable-mdpi/dddddddd_091.jpg JPEG image data, JFIF standard 1.01 7668a70e
+	res/drawable-mdpi/dddddddd_092.jpg JPEG image data, JFIF standard 1.01 24492ef
+	res/drawable-mdpi/dddddddd_093.jpg JPEG image data, JFIF standard 1.01 7279b39d
+	res/drawable-mdpi/dddddddd_094.jpg JPEG image data, JFIF standard 1.01 2ff3cb4a
+	res/drawable-mdpi/dddddddd_095.jpg JPEG image data, JFIF standard 1.01 e2bb8f0
+	res/drawable-mdpi/dddddddd_096.jpg JPEG image data, JFIF standard 1.01 642af980
+	res/drawable-mdpi/dddddddd_097.jpg JPEG image data, JFIF standard 1.01 -2c2c2617
+	res/drawable-mdpi/dddddddd_098.jpg JPEG image data, JFIF standard 1.01 -12b95c76
+	res/drawable-mdpi/dddddddd_099.jpg JPEG image data, JFIF standard 1.01 -76751160
+	res/drawable-mdpi/dddddddd_100.jpg JPEG image data, JFIF standard 1.01 -b4efd29
+	res/drawable-mdpi/dddddddd_101.jpg JPEG image data, JFIF standard 1.01 -1af5edb
+	res/drawable-mdpi/dddddddd_102.jpg JPEG image data, JFIF standard 1.01 5193e689
+	res/drawable-mdpi/dddddddd_103.jpg JPEG image data, JFIF standard 1.01 -5ef115be
+	res/drawable-mdpi/dddddddd_104.jpg JPEG image data, JFIF standard 1.01 -387b6f45
+	res/drawable-mdpi/dddddddd_105.jpg JPEG image data, JFIF standard 1.01 -741ad388
+	res/drawable-mdpi/dddddddd_106.jpg JPEG image data, JFIF standard 1.01 d7169c6
+	res/drawable-mdpi/dddddddd_107.jpg JPEG image data, JFIF standard 1.01 762ded90
+	res/drawable-mdpi/dddddddd_108.jpg JPEG image data, JFIF standard 1.01 2bfca7ce
+	res/drawable-mdpi/dddddddd_109.jpg JPEG image data, JFIF standard 1.01 -dc529f0
+	res/drawable-mdpi/dddddddd_110.jpg JPEG image data, JFIF standard 1.01 -1bce5de7
+	res/drawable-mdpi/dddddddd_111.jpg JPEG image data, JFIF standard 1.01 2f225cba
+	res/drawable-mdpi/dddddddd_112.jpg JPEG image data, JFIF standard 1.01 -5094b21f
+	res/drawable-mdpi/dddddddd_113.jpg JPEG image data, JFIF standard 1.01 ef0e828
+	res/drawable-mdpi/dddddddd_114.jpg JPEG image data, JFIF standard 1.01 -3c068824
+	res/drawable-mdpi/dddddddd_115.jpg JPEG image data, JFIF standard 1.01 -65e6cd16
+	res/drawable-mdpi/dddddddd_116.jpg JPEG image data, JFIF standard 1.01 7489b043
+	res/drawable-mdpi/dddddddd_117.jpg JPEG image data, JFIF standard 1.01 7d180d56
+	res/drawable-mdpi/dddddddd_118.jpg JPEG image data, JFIF standard 1.01 -3fcb088
+	res/drawable-mdpi/dddddddd_119.jpg JPEG image data, JFIF standard 1.01 54e89978
+	res/drawable-mdpi/dddddddd_120.jpg JPEG image data, JFIF standard 1.01 -1e4344b0
+	res/drawable-mdpi/dddddddd_121.jpg JPEG image data, JFIF standard 1.01 -7062cd9b
+	res/drawable-mdpi/dddddddd_122.jpg JPEG image data, JFIF standard 1.01 521d1498
+	res/drawable-mdpi/dddddddd_123.jpg JPEG image data, JFIF standard 1.01 -6b4c736d
+	res/drawable-mdpi/dddddddd_124.jpg JPEG image data, JFIF standard 1.01 1a1bea48
+	res/drawable-mdpi/dddddddd_125.jpg JPEG image data, JFIF standard 1.01 -40d37cb3
+	res/drawable-mdpi/dddddddd_126.jpg JPEG image data, JFIF standard 1.01 -6e4de38c
+	res/drawable-mdpi/dddddddd_127.jpg JPEG image data, JFIF standard 1.01 -66001ba4
+	res/drawable-mdpi/dddddddd_128.jpg JPEG image data, JFIF standard 1.01 -4e419725
+	res/drawable-mdpi/dddddddd_129.jpg JPEG image data, JFIF standard 1.01 -7d9113f5
+	res/drawable-mdpi/dddddddd_130.jpg JPEG image data, JFIF standard 1.01 1d4d7a2d
+	res/drawable-mdpi/dddddddd_131.jpg JPEG image data, JFIF standard 1.01 66907260
+	res/drawable-mdpi/dddddddd_132.jpg JPEG image data, JFIF standard 1.01 -69bd1706
+	res/drawable-mdpi/dddddddd_133.jpg JPEG image data, JFIF standard 1.01 -1d179df2
+	res/drawable-mdpi/dddddddd_134.jpg JPEG image data, JFIF standard 1.01 -49ed5ffc
+	res/drawable-mdpi/dddddddd_135.jpg JPEG image data, JFIF standard 1.01 6274f3b6
+	res/drawable-mdpi/dddddddd_136.jpg JPEG image data, JFIF standard 1.01 63fde2af
+	res/drawable-mdpi/dddddddd_137.jpg JPEG image data, JFIF standard 1.01 2a5826e5
+	res/drawable-mdpi/dddddddd_138.jpg JPEG image data, JFIF standard 1.01 -3145f7dc
+	res/drawable-mdpi/dddddddd_139.jpg JPEG image data, JFIF standard 1.01 -6caad9a
+	res/drawable-mdpi/dddddddd_140.jpg JPEG image data, JFIF standard 1.01 346799d1
+	res/drawable-mdpi/dddddddd_141.jpg JPEG image data, JFIF standard 1.01 -29f5c9d8
+	res/drawable-mdpi/dddddddd_142.jpg JPEG image data, JFIF standard 1.01 2fa108eb
+	res/drawable-mdpi/dddddddd_143.jpg JPEG image data, JFIF standard 1.01 -234acb2c
+	res/drawable-mdpi/dddddddd_144.jpg JPEG image data, JFIF standard 1.01 712d57a5
+	res/drawable-mdpi/dddddddd_145.jpg JPEG image data, JFIF standard 1.01 2cfdf16f
+	res/drawable-mdpi/dddddddd_146.jpg JPEG image data, JFIF standard 1.01 1cd74752
+	res/drawable-mdpi/dddddddd_147.jpg JPEG image data, JFIF standard 1.01 -228e4c8b
+	res/drawable-mdpi/dddddddd_148.jpg JPEG image data, JFIF standard 1.01 385224db
+	res/drawable-mdpi/dddddddd_149.jpg JPEG image data, JFIF standard 1.01 3ea61328
+	res/drawable-mdpi/dddddddd_150.jpg JPEG image data, JFIF standard 1.01 1485e89c
+	res/drawable-mdpi/dddddddd_151.jpg JPEG image data, JFIF standard 1.01 2d52d86f
+	res/drawable-mdpi/dddddddd_152.jpg JPEG image data, JFIF standard 1.01 -5467e475
+	res/drawable-mdpi/dddddddd_153.jpg JPEG image data, JFIF standard 1.01 5b34343
+	res/drawable-mdpi/dddddddd_154.jpg JPEG image data, JFIF standard 1.01 -36d0ed23
+	res/drawable-mdpi/dddddddd_155.jpg JPEG image data, JFIF standard 1.01 77417e04
+	res/drawable-mdpi/dddddddd_156.jpg JPEG image data, JFIF standard 1.01 -6c3d5862
+	res/drawable-mdpi/dddddddd_157.jpg JPEG image data, JFIF standard 1.01 58893f03
+	res/drawable-mdpi/dddddddd_158.jpg JPEG image data, JFIF standard 1.01 dac2f15
+	res/drawable-mdpi/dddddddd_159.jpg JPEG image data, JFIF standard 1.01 694d4f2
+	res/drawable-mdpi/dddddddd_160.jpg JPEG image data, JFIF standard 1.01 aedc14f
+	res/drawable-mdpi/dddddddd_161.jpg JPEG image data, JFIF standard 1.01 -3b4fb445
+	res/drawable-mdpi/dddddddd_162.jpg JPEG image data, JFIF standard 1.01 -3c5d3942
+	res/drawable-mdpi/dddddddd_163.jpg JPEG image data, JFIF standard 1.01 1595d3ff
+	res/drawable-mdpi/dddddddd_164.jpg JPEG image data, JFIF standard 1.01 -36d06066
+	res/drawable-mdpi/dddddddd_165.jpg JPEG image data, JFIF standard 1.01 7bbd59d9
+	res/drawable-mdpi/dddddddd_166.jpg JPEG image data, JFIF standard 1.01 14cfdba0
+	res/drawable-mdpi/dddddddd_167.jpg JPEG image data, JFIF standard 1.01 -287f7a59
+	res/drawable-mdpi/dddddddd_168.jpg JPEG image data, JFIF standard 1.01 -1c92a7b2
+	res/drawable-mdpi/dddddddd_169.jpg JPEG image data, JFIF standard 1.01 -2770198
+	res/drawable-mdpi/dddddddd_170.jpg JPEG image data, JFIF standard 1.01 7f3a3978
+	res/drawable-mdpi/dddddddd_171.jpg JPEG image data, JFIF standard 1.01 -2b4efd40
+	res/drawable-mdpi/dddddddd_172.jpg JPEG image data, JFIF standard 1.01 -7fe36834
+	res/drawable-mdpi/dddddddd_173.jpg JPEG image data, JFIF standard 1.01 4569ae8c
+	res/drawable-mdpi/dddddddd_174.jpg JPEG image data, JFIF standard 1.01 -4a1ad233
+	res/drawable-mdpi/dddddddd_175.jpg JPEG image data, JFIF standard 1.01 15bcbce8
+	res/drawable-mdpi/dddddddd_176.jpg JPEG image data, JFIF standard 1.01 77f3bf03
+	res/drawable-mdpi/icon.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -24d1a750
+	res/drawable-mdpi/mkicon.png PNG image data, 48 x 47, 8-bit/color RGBA, non-interlaced 7438c09
+	classes.dex Dalvik dex file version 035 286e1177
+	META-INF/MANIFEST.MF ASCII text, with CRLF line terminators -42d1e719
+	META-INF/CERT.SF ASCII text, with CRLF line terminators -20928c2d
+	META-INF/CERT.RSA data -785aedaa
+PERMISSIONS: 
+	android.permission.ACCESS_FINE_LOCATION ['dangerous', 'fine (GPS) location', 'Access fine location sources, such as the Global Positioning System on the phone, where available. Malicious applications can use this to determine where you are and may consume additional battery power.']
+	android.permission.SEND_SMS ['dangerous', 'send SMS messages', 'Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation.']
+	android.permission.RECEIVE_BOOT_COMPLETED ['normal', 'automatically start at boot', 'Allows an application to start itself as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.']
+	android.permission.INTERNET ['dangerous', 'full Internet access', 'Allows an application to create network sockets.']
+	android.permission.INSTALL_PACKAGES ['signatureOrSystem', 'directly install applications', 'Allows an application to install new or updated Android packages. Malicious applications can use this to add new applications with arbitrarily powerful permissions.']
+	android.permission.PROCESS_OUTGOING_CALLS ['dangerous', 'intercept outgoing calls', 'Allows application to process outgoing calls and change the number to be dialled. Malicious applications may monitor, redirect or prevent outgoing calls.']
+	android.permission.ACCESS_WIFI_STATE ['normal', 'view Wi-Fi status', 'Allows an application to view the information about the status of Wi-Fi.']
+	android.permission.ACCESS_COARSE_LOCATION ['dangerous', 'coarse (network-based) location', 'Access coarse location sources, such as the mobile network database, to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.']
+	android.permission.CALL_PHONE ['dangerous', 'directly call phone numbers', 'Allows the application to call phone numbers without your intervention. Malicious applications may cause unexpected calls on your phone bill. Note that this does not allow the application to call emergency numbers.']
+	android.permission.DELETE_PACKAGES ['signatureOrSystem', 'delete applications', 'Allows an application to delete Android packages. Malicious applications can use this to delete important applications.']
+	android.permission.ACCESS_NETWORK_STATE ['normal', 'view network status', 'Allows an application to view the status of all networks.']
+	android.permission.READ_PHONE_STATE ['dangerous', 'read phone state and identity', 'Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and so on.']
+	android.permission.READ_SMS ['dangerous', 'read SMS or MMS', 'Allows application to read SMS messages stored on your phone or SIM card. Malicious applications may read your confidential messages.']
+	android.permission.WRITE_EXTERNAL_STORAGE ['dangerous', 'modify/delete SD card contents', 'Allows an application to write to the SD card.']
+	android.permission.RECEIVE_SMS ['dangerous', 'receive SMS', 'Allows application to receive and process SMS messages. Malicious applications may monitor your messages or delete them without showing them to you.']
+MAIN ACTIVITY:  com.GoldDream.TingTing08ii.TingTing21
+ACTIVITIES:  ['com.GoldDream.TingTing08ii.TingTing21', 'com.GoldDream.TingTing08ii.readme', 'com.google.ads.AdActivity']
+SERVICES:  ['com.GoldDream.zj.zjService']
+RECEIVERS:  ['com.GoldDream.zj.zjReceiver']
+PROVIDERS:  []
+Native code: False
+Dynamic code: False
+Reflection code: False
+La; a ['ANDROID', 'WEBKIT']
+La; a ['ANDROID', 'NET']
+La; a ['ANDROID', 'NET']
+La; b ['ANDROID', 'NET']
+La; c ['ANDROID', 'NET']
+Lb; <init> ['ANDROID', 'OS']
+Lc; <init> ['ANDROID', 'WEBKIT', 'OS', 'APP']
+Lc; a ['ANDROID', 'WEBKIT', 'OS']
+Lc; a ['ANDROID', 'APP', 'CONTENT']
+Lc; onCancelled ['ANDROID', 'WEBKIT']
+Lc; onPostExecute ['ANDROID', 'WEBKIT']
+Lcom/GoldDream/TingTing08ii/TingTing21; <init> ['ANDROID', 'APP']
+Lcom/GoldDream/TingTing08ii/TingTing21; RefreshFlipper ['ANDROID', 'WIDGET']
+Lcom/GoldDream/TingTing08ii/TingTing21; addImageView ['ANDROID', 'WIDGET']
+Lcom/GoldDream/TingTing08ii/TingTing21; onCreate ['ANDROID', 'VIEW', 'WIDGET', 'APP', 'CONTENT']
+Lcom/GoldDream/TingTing08ii/TingTing21; onCreateOptionsMenu ['ANDROID', 'VIEW', 'APP']
+Lcom/GoldDream/TingTing08ii/TingTing21; onFling ['ANDROID', 'VIEW', 'WIDGET']
+Lcom/GoldDream/TingTing08ii/TingTing21; onMenuItemSelected ['ANDROID', 'NET', 'VIEW', 'APP', 'CONTENT']
+Lcom/GoldDream/TingTing08ii/TingTing21; onTouchEvent ['ANDROID', 'VIEW']
+Lcom/GoldDream/TingTing08ii/TingTing21; showNext ['ANDROID', 'WIDGET']
+Lcom/GoldDream/TingTing08ii/TingTing21; showPrevious ['ANDROID', 'WIDGET']
+Lcom/GoldDream/TingTing08ii/readme; <init> ['ANDROID', 'APP']
+Lcom/GoldDream/TingTing08ii/readme; onCreate ['ANDROID', 'WIDGET', 'APP']
+Lcom/GoldDream/TingTing08ii/readme; onCreateOptionsMenu ['ANDROID', 'VIEW', 'APP']
+Lcom/GoldDream/TingTing08ii/readme; onMenuItemSelected ['ANDROID', 'NET', 'VIEW', 'APP', 'CONTENT']
+Lcom/GoldDream/zj/zjReceiver; <init> ['ANDROID', 'CONTENT']
+Lcom/GoldDream/zj/zjReceiver; WriteRec ['ANDROID', 'CONTENT']
+Lcom/GoldDream/zj/zjReceiver; onReceive ['ANDROID', 'TELEPHONY', 'OS', 'CONTENT']
+Lcom/GoldDream/zj/zjService; <init> ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; CallPhoneNumber ['ANDROID', 'NET', 'CONTENT']
+Lcom/GoldDream/zj/zjService; GetDeviceInfo ['ANDROID', 'TELEPHONY']
+Lcom/GoldDream/zj/zjService; PutKeyNode ['ANDROID', 'CONTENT']
+Lcom/GoldDream/zj/zjService; bg_sendSms ['ANDROID', 'TELEPHONY']
+Lcom/GoldDream/zj/zjService; executeTask ['ANDROID', 'NET', 'CONTENT']
+Lcom/GoldDream/zj/zjService; getKeyNode ['ANDROID', 'CONTENT']
+Lcom/GoldDream/zj/zjService; getUserAgent ['ANDROID', 'WEBKIT']
+Lcom/GoldDream/zj/zjService; installApk ['ANDROID', 'CONTENT']
+Lcom/GoldDream/zj/zjService; onConfigurationChanged ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; onCreate ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; onDestroy ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; onLowMemory ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; onRebind ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; onStart ['ANDROID', 'APP']
+Lcom/GoldDream/zj/zjService; onUnbind ['ANDROID', 'APP']
+Lcom/google/ads/AdActivity; <init> ['ANDROID', 'APP']
+Lcom/google/ads/AdActivity; a ['ANDROID', 'VIEW', 'WIDGET', 'CONTENT', 'UTIL']
+Lcom/google/ads/AdActivity; launchAdActivity ['ANDROID', 'APP', 'CONTENT']
+Lcom/google/ads/AdActivity; onCompletion ['ANDROID', 'WIDGET']
+Lcom/google/ads/AdActivity; onCreate ['ANDROID', 'WIDGET', 'APP', 'CONTENT', 'NET', 'OS']
+Lcom/google/ads/AdActivity; onDestroy ['ANDROID', 'WIDGET', 'APP']
+Lcom/google/ads/AdActivity; onWindowFocusChanged ['ANDROID', 'OS', 'APP']
+Lcom/google/ads/AdActivity; showVideo ['ANDROID', 'VIEW', 'WIDGET']
+Lcom/google/ads/AdView; <init> ['ANDROID', 'WIDGET', 'APP']
+Lcom/google/ads/AdView; <init> ['ANDROID', 'WIDGET', 'CONTENT', 'UTIL']
+Lcom/google/ads/AdView; a ['ANDROID', 'WIDGET', 'UTIL', 'APP', 'CONTENT']
+Lcom/google/ads/AdView; a ['ANDROID', 'WIDGET', 'UTIL', 'CONTENT']
+Lcom/google/ads/InstallReceiver; <init> ['ANDROID', 'CONTENT']
+Lcom/google/ads/InstallReceiver; forwardIntent ['ANDROID', 'OS', 'CONTENT']
+Lcom/google/ads/InstallReceiver; onReceive ['ANDROID', 'CONTENT']
+Lcom/google/ads/util/AdUtil$UserActivityReceiver; <init> ['ANDROID', 'CONTENT']
+Lcom/google/ads/util/AdUtil$UserActivityReceiver; onReceive ['ANDROID', 'CONTENT']
+Lcom/google/ads/util/AdUtil; a ['ANDROID', 'VIEW', 'APP', 'UTIL']
+Lcom/google/ads/util/AdUtil; a ['ANDROID', 'PROVIDER', 'CONTENT']
+Lcom/google/ads/util/AdUtil; a ['ANDROID', 'LOCATION']
+Lcom/google/ads/util/AdUtil; a ['ANDROID', 'WEBKIT', 'CONTENT']
+Lcom/google/ads/util/AdUtil; a ['ANDROID', 'NET']
+Lcom/google/ads/util/AdUtil; b ['ANDROID', 'NET']
+Lcom/google/ads/util/AdUtil; b ['ANDROID', 'CONTENT']
+Lcom/google/ads/util/AdUtil; c ['ANDROID', 'CONTENT']
+Lcom/google/ads/util/AdUtil; d ['ANDROID', 'NET', 'CONTENT']
+Lcom/google/ads/util/AdUtil; e ['ANDROID', 'NET', 'CONTENT']
+Lcom/google/ads/util/AdUtil; f ['ANDROID', 'CONTENT', 'MEDIA']
+Lcom/google/ads/util/AdUtil; g ['ANDROID', 'VIEW', 'CONTENT']
+Lcom/google/ads/util/AdUtil; h ['ANDROID', 'CONTENT']
+Lcom/google/ads/util/AdUtil; i ['ANDROID', 'WEBKIT']
+Lcom/google/ads/util/a; a ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; a ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; a ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; b ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; b ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; c ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; c ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; d ['ANDROID', 'UTIL']
+Lcom/google/ads/util/a; e ['ANDROID', 'UTIL']
+Ld; <init> ['ANDROID', 'OS', 'APP', 'CONTENT']
+Ld; a ['ANDROID', 'APP']
+Ld; a ['ANDROID', 'CONTENT']
+Ld; a ['ANDROID', 'APP']
+Ld; c ['ANDROID', 'OS']
+Ld; d ['ANDROID', 'OS']
+Ld; u ['ANDROID', 'APP']
+Ld; v ['ANDROID', 'APP']
+Ld; w ['ANDROID', 'OS']
+Le; <init> ['ANDROID', 'OS']
+Le; a ['ANDROID', 'OS']
+Lf; b ['ANDROID', 'OS']
+Lf; c ['ANDROID', 'OS']
+Lf; d ['ANDROID', 'OS']
+Lf; o ['ANDROID', 'OS']
+Lg; <init> ['ANDROID', 'WEBKIT']
+Lg; onMeasure ['ANDROID', 'WEBKIT', 'VIEW', 'CONTENT']
+Lh; <init> ['ANDROID', 'WEBKIT']
+Lh; shouldOverrideUrlLoading ['ANDROID', 'NET', 'WEBKIT']
+Lj; a ['ANDROID', 'NET', 'WEBKIT', 'CONTENT']
+Lk; a ['ANDROID', 'NET', 'CONTENT', 'WEBKIT']
+Ln; a ['ANDROID', 'WEBKIT', 'CONTENT']
+Lv; a ['ANDROID', 'WEBKIT', 'WIDGET']
